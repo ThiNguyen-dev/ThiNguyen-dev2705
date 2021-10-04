@@ -1,0 +1,10 @@
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form DangNhap.csproj.SuggestedBindingRedirects.cache
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form_DangNhap.Properties.Resources.resources
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form DangNhap.csproj.GenerateResource.cache
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form DangNhap.csproj.CoreCompileInputs.cache
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form_DangNhap.FrmDangNhap.resources
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\bin\Debug\Form DangNhap.exe.config
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\bin\Debug\Form DangNhap.exe
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\bin\Debug\Form DangNhap.pdb
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form DangNhap.exe
+D:\source VISUAL STUDIO 2022\repos\OPP\Form DangNhap\obj\Debug\Form DangNhap.pdb
