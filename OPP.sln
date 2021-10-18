@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formInfor", "formInfor\form
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form DangNhap", "Form DangNhap\Form DangNhap.csproj", "{28F2D37B-1DA0-4C91-80E7-1AAF390C967B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formTime", "formTime\formTime.csproj", "{69A6D6E4-D713-4F1E-B47A-2458D47F1085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{28F2D37B-1DA0-4C91-80E7-1AAF390C967B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F2D37B-1DA0-4C91-80E7-1AAF390C967B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F2D37B-1DA0-4C91-80E7-1AAF390C967B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A6D6E4-D713-4F1E-B47A-2458D47F1085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A6D6E4-D713-4F1E-B47A-2458D47F1085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A6D6E4-D713-4F1E-B47A-2458D47F1085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A6D6E4-D713-4F1E-B47A-2458D47F1085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
