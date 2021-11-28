@@ -1,0 +1,31 @@
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.exe.config
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.exe
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.pdb
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.AssemblyReference.cache
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.Properties.Resources.resources
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.GenerateResource.cache
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.CoreCompileInputs.cache
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.exe
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.pdb
+E:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.frmMathBasic.resources
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.exe.config
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.exe
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.pdb
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.SuggestedBindingRedirects.cache
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.frmMathBasic.resources
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.Properties.Resources.resources
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.GenerateResource.cache
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.CoreCompileInputs.cache
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.exe
+D:\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.pdb
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.exe.config
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.exe
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\bin\Debug\BasicForm.pdb
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.AssemblyReference.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.SuggestedBindingRedirects.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.frmMathBasic.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.Properties.Resources.resources
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.GenerateResource.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.csproj.CoreCompileInputs.cache
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.exe
+D:\source VISUAL STUDIO 2022\source VISUAL STUDIO 2022\repos\OPP\BasicForm\obj\Debug\BasicForm.pdb
